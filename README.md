@@ -6,7 +6,6 @@
 
 ![GitHub]
  https://github.com/cslunsford/wallet-wiz
-
   
 ## Technologies
 ***
@@ -17,7 +16,8 @@ Technologies used:
 ![Technologies](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
 ![Technologies](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white)
 ![Technologies](https://img.shields.io/badge/-Inquirer-000000?logo=&logoColor=white)
-
+![Technologies](https://img.shields.io/badge/-Plaid-000000?logo=PLAID&logoColor=white)
+![Technologies](https://img.shields.io/badge/-jQuery-000000?logo=JQuery&logoColor=white)
 
 ## Table of Contents
 ***
@@ -31,7 +31,7 @@ Technologies used:
 ## Description
 *** 
 
-This challenge is to build The Tech Blog website where developers can publish their blog posts and comment on other developers’ posts as well. This application follows the MVC paradigm and it is using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+This is an interactive full-stack project following the Model-View-Controller (MVC) pattern using JavaScript and integrating the Plaid API involves both back-end and front-end development. Below, it provide a financial application using Node.js for the back end, JavaScript for the front end, and Plaid API for financial data integration.
 
 
 ### Requierments
@@ -67,7 +67,7 @@ Protect API keys and sensitive information with environment variables
 The installation can be completed by following these instructions:
 
 ***Requirments***
-[Node.js](https://nodejs.org/en/) | [MySQL](https://www.npmjs.com/package/mysql2) | [Sequelize] https://www.npmjs.com/package/sequelize | [Express] https://www.npmjs.com/package/express | [dotenv] https://www.npmjs.com/package/dotenv 
+[Node.js](https://nodejs.org/en/) | [MySQL](https://www.npmjs.com/package/mysql2) | [Sequelize] https://www.npmjs.com/package/sequelize | [Express] https://www.npmjs.com/package/express | [dotenv] https://www.npmjs.com/package/dotenv | [Plaid] (https://plaid.com)
 
 1. Clone the GitHub repository to you local computer. Click on the following link.
 * Repository link : https://github.com/https://github.com/cslunsford/wallet-wiz
